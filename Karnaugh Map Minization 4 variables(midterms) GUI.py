@@ -1,3 +1,6 @@
+#Karnaugh Map Minimization with a Graphical User Interface provided by Tkinter.
+#Developed by Mouzakitis Nikolaos,Crete,2016-2017.
+
 from tkinter import *
 
 root = None
